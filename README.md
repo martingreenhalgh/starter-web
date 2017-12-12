@@ -8,7 +8,7 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Purpose
 
-Testing some changes
+Testing some changes, from myfeature branch too
 
 Sample website with plenty of files for demos
 
